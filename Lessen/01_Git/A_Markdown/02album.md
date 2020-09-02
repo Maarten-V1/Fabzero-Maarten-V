@@ -16,6 +16,8 @@ images:
   - title: title
     link: https://via.placeholder.com/200/6ab0de/fff.png
     image: https://via.placeholder.com/200/6ab0de/fff.png
+  - Titel: Maarten KSA
+    image: https://ksaoostende.be/sites/ksaoostende.ksasite.be/files/resize/wysiwyg/website/Afbeeldingen/Leiding_2019_2020/knapen_maarten_vanhoorne-200x133.jpg
 ---
 
 # Album Images
