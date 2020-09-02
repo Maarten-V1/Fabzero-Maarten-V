@@ -4,7 +4,7 @@ sort: 1
 
 # Markdown Elements
 
-**ik** _test_ = ~~Streep~~ [Links](https://www.youtube.com/)
+**ik**  _test_  ~~Streep~~ [Links](https://www.youtube.com/)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines.
 
