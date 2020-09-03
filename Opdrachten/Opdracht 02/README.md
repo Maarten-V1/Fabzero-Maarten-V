@@ -2,7 +2,7 @@
 sort: 3
 ---
 
-# Opdrachten 02 - Materialen en Design
+# Opdracht 02 - Materialen en Design
 
 
 
