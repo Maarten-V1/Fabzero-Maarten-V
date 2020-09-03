@@ -2,9 +2,9 @@
 sort: 3
 ---
 
-# Opdrachten FabZero
+# Opdrachten 02 - Materialen en Design
 
-Overzicht van alle opdrachten van FabZero
+
 
 
 
