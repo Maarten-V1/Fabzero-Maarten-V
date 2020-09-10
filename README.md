@@ -7,9 +7,8 @@ Template voor FabZero gebaseerd [jekyll-rtd-theme](https://github.com/rundocs/je
 
 <img class="shadow-box" width="50%" alt="jekyll-rtd-theme" src="https://user-images.githubusercontent.com/68011645/89026666-ad3a8680-d35b-11ea-9f4b-d3fe26ae12ed.png">
 
-## Who am I?
+## [Wie ben ik?](https://maarten-v1.github.io/Fabzero-Maarten-V/Opdrachten/Opdracht%2001/01UseGit.html)
 
-???
 
 ## The license
 The theme is available as open source under the terms of the MIT License. The content is Creatieve Commons, non-commercial.
