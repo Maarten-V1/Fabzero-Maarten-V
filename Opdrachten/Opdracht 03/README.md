@@ -2,7 +2,7 @@
 sort: 3
 ---
 
-# Opdrachten 03 - Lasercutten
+# Opdracht 03 - Lasercutten
 
 
 
