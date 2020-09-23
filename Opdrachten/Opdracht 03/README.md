@@ -2,9 +2,8 @@
 sort: 3
 ---
 
-# Opdrachten FabZero
+# Opdrachten lasercutten
 
-Overzicht van alle opdrachten van FabZero
 
 
 
