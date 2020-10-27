@@ -2,7 +2,7 @@
 sort: 3
 ---
 
-# Opdrachten FabZero
+# Opdrachten 07 - Smart textile 
 
 Overzicht van alle opdrachten van FabZero
 
