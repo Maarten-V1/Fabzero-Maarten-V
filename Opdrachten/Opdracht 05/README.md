@@ -2,7 +2,7 @@
 sort: 3
 ---
 
-# Opdrachten FabZero
+# Opdrachten 05 - Basis elektronica 
 
 Overzicht van alle opdrachten van FabZero
 
