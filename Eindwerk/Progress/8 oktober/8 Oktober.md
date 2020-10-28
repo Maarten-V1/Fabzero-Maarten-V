@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-#Tafelhouder
+##Tafelhouder
 
 ![Schets - Tafelhouder]({{site.baseurl}}/assets/Eindwerk/Schets tafelhouder.png)
  
@@ -14,3 +14,5 @@ sort: 1
  Rubber aan de onderste vork en aan de bovenste aanspan platen.
  Waar gaat de arduino geplaats gaat worden.
  Hoogte nog testen van het stuur.
+ 
+ 
