@@ -1,8 +1,9 @@
 ---
-sort: 1
+sort: 3
 ---
 
 # Eindwerk
 
 
 {% include list.liquid all=true %}
+
