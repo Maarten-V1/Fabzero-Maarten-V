@@ -2,20 +2,20 @@
 sort: 1
 ---
 
-#Simrig
+## Simrig
 
 Eerste dag van het ontwerpen van mij "simrig"
 
-De verschillende ondere delen van het project zijn:
+De verschillende onderdelen van het project zijn:
 
-##Stuur
+* Stuur
 
-## Paddle shifters
+* Paddle shifters
 
-## Stuurstang
+* Stuurstang
 
-## Tafelhouder
+* Tafelhouder
 
-## Elektronische onderdelen
+* Elektronische onderdelen
 
-## Pedalen
+* Pedalen
