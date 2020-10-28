@@ -19,5 +19,3 @@ De verschillende ondere delen van het project zijn:
 *Elektronische onderdelen
 
 *Pedalen
-
-
