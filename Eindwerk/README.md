@@ -2,7 +2,7 @@
 sort: 12
 ---
 
-# Voorbeeld 
+# Eindwerk
 
 
 {% include list.liquid all=true %}
