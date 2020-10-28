@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-##Tafelhouder
+## Tafelhouder
 
 ![Schets - Tafelhouder]({{site.baseurl}}/assets/Eindwerk/Schets tafelhouder.png)
  
