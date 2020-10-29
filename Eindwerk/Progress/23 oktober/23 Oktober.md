@@ -21,7 +21,7 @@ Stuur 15 mm dikker (meer plaats voor de elektronica + flippers)
 	     8 [weerstandjes](https://www.conrad.be/p/yageo-cfr-25jt-52-1k2-koolfilmweerstand-12-k-axiaal-bedraad-0207-025-w-5-1-stuks-1417712) van 1200 Ω
 
 
-2[Microswitches](https://www.conrad.com/p/zippy-microswitch-df-03s-2p-z-125-v-ac-3-a-1-x-onon-momentary-1-pcs-1094398)
+2 [Microswitches](https://www.conrad.com/p/zippy-microswitch-df-03s-2p-z-125-v-ac-3-a-1-x-onon-momentary-1-pcs-1094398)
 
 
 1 [Potentiometer](https://www.conrad.be/p/potentiometer-service-9603-draaipotmeter-mono-025-w-22-k-1-stuks-457694)
