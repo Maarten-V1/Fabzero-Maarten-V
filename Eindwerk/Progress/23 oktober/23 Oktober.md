@@ -30,7 +30,7 @@ Stuur 15 mm dikker (meer plaats voor de elektronica + flippers)
 #### Pedalen: 
 3 [Potentiometer](https://www.conrad.be/p/potentiometer-service-9603-draaipotmeter-mono-025-w-22-k-1-stuks-457694) 1 per pedaal
 
-		[Paddle shifters](https://www.youtube.com/watch?v=hbHkliQDCx0&ab_channel=amstudio)
+[Paddle shifters](https://www.youtube.com/watch?v=hbHkliQDCx0&ab_channel=amstudio)
 
 
 3D model nog te maken maar gebasseerd op bovenstaande element
